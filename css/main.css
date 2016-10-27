@@ -4,8 +4,10 @@ html {
 }
 
 body {
+    font-family: cursive;
     margin: 0px 0px;
     height: 100% - 30px;
+    margin: 0px 250px;
 }
 .p30 {height: 30px;}
 .p20 {height: 20px;}
@@ -14,16 +16,16 @@ body {
 /******* Header/Footer Options ********/
 
 header {
-    margin: 10px 300px;
+    margin: 10px 0px;
     height: auto;
-    
+    text-align: center;
     font-family: "PT Sans Narrow", sans-serif;
     font-weight: 700;
     text-transform: uppercase; 
 }
 
 .title {
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .hlist {
@@ -56,10 +58,15 @@ footer {
 
 .middle {
     padding-bottom: 65px;
+    size: 200%;
+    overflow: auto;
+    align-content: center;
 }
 
 .descriptive-text {
-    margin-left: 300px;
+    margin: 0px 215px;
+    font-family: sans-serif;
+    font-weight: 600;
 }
 
 .img-box {

@@ -1,0 +1,22 @@
+.person-info {
+    margin: auto;
+    padding: 0px;
+    width: 250px;
+    margin-bottom: 20px;
+    display: inline-block;
+    
+}
+.person-img img {
+    border-width: 3px;
+    width: 100px;
+    height: auto;
+}
+.person-desc {
+    text-align: center;
+}
+
+
+.student-list{
+    overflow: auto;
+    text-align: center;
+}
