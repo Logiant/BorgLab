@@ -19,4 +19,18 @@
 .student-list{
     overflow: auto;
     text-align: center;
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+
+/********Table Options********/
+
+table {
+    margin: auto;
+}
+
+table td {
+    padding:2px 10px;
 }
